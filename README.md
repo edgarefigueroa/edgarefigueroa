@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 
 ##  Socials:
 <div style="display: flex; flex-direction: row;" align=left >
-  <a href="https://google.com" target="_blank">
+<!--   <a href="https://google.com" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=flutter&logoColor=C0C0C0&labelColor=white&label=&message=PORTFOLIO&color=C0C0C0"/>
-  </a>
+  </a> -->
   <a href="https://twitter.com/edgarfigueroa_" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=twitter&logoColor=C0C0C0&labelColor=white&label=&message=TWITTER&color=C0C0C0"/>
   </a>
-  <a href="https://linkedin.com/edgarefigueroa" target="_blank">
+  <a href="https://linkedin.com/in/edgarefigueroa" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=linkedin&logoColor=C0C0C0&labelColor=white&label=&message=LINKEDIN&color=C0C0C0"/>
   </a>
 </div>
