@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Tools:
 
-### Languages: 
+### Languages 
 - HTML & CSS
 - JavaScript
 - Java
