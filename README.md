@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 📋 About me:
 - Software Developer and Customer Service-Oriented individual with a demonstrated history of the ability to thrive and adapt to new environments.
 
-## 🛠 Tools:
+<!-- ## 🛠 Tools:
 
 ### Languages 
 - HTML & CSS
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### Frameworks & Libraries
 - NodeJS
 - Spring Boot
-- Flutter
+- Flutter -->
 
 ##  Socials:
 <div style="display: flex; flex-direction: row;" align=left >
