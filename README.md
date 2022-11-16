@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
 -->
 
-## 📋 About me:
-- Software Developer and Customer Service-Oriented individual with a demonstrated history of the ability to thrive and adapt to new environments.
+<!-- ## 📋 About me:
+- Software Developer and Customer Service-Oriented individual with a demonstrated history of the ability to thrive and adapt to new environments. -->
 
 <!-- ## 🛠 Tools:
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - Spring Boot
 - Flutter -->
 
-##  Socials:
+##  Connect with me:
 <div style="display: flex; flex-direction: row;" align=left >
 <!--   <a href="https://google.com" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=flutter&logoColor=C0C0C0&labelColor=white&label=&message=PORTFOLIO&color=C0C0C0"/>
