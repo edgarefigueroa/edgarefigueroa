@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-💻🔥🚀📚
+💻🔥🚀📚🌍🖥️✉️🧠🤝
 ![Status](https://img.shields.io/badge/Status-available-green)
 ![Status](https://img.shields.io/badge/Status-unavailable-red)
 -->
@@ -54,15 +54,15 @@ Here are some ideas to get you started:
 
 
 
-<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edgar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Edgar
 =============================================================================================================================
 
 Software Developer
 ------------------
 
-Software Developer and Customer Service-Oriented individual with a demonstrated history of the ability to thrive and adapt to new environments.
+Software Developer and Customer Service-Oriented individual.
 
-*   🌍  I'm based in Michigan
+<!-- *   🌍  I'm based in Michigan
 *   🖥️  See my portfolio at [MyPortfolio](http://https://edgarefigueroa.github.io/)
 *   ✉️  You can contact me at [edgarefigueroa@outlook.com](mailto:edgarefigueroa@outlook.com)
 *   🚀  I'm currently working on [MyApp](http://myapp.com)
@@ -129,16 +129,19 @@ Software Developer and Customer Service-Oriented individual with a demonstrated 
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-</p>
+</p> -->
                     
 ### Socials
                   
                   
 <p align="left">
                           
-<a href="https://www.github.com/edgarefigueroa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/edgarefigueroa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>                          
+<!-- <a href="https://www.github.com/edgarefigueroa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> -->
+  
+<a href="https://www.linkedin.com/in/edgarefigueroa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  
 <a href="https://www.twitter.com/edgarfigueroa_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  
 </p>
 
 ### Badges<b>My GitHub Stats</b>
@@ -152,4 +155,5 @@ Software Developer and Customer Service-Oriented individual with a demonstrated 
 <a href="https://github.com/edgarefigueroa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarefigueroa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b><div width="100%" align="center">
-<a href="https://github.com/edgarefigueroa/java-capstone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edgarefigueroa&repo=java-capstone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
+<a href="https://github.com/edgarefigueroa/java-capstone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=edgarefigueroa&repo=java-capstone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<!-- <br /><br /><br /><br /><br /><br /><br /> -->
