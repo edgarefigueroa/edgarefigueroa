@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ## 📋 About me:
-- Software Developer and Customer Service-Oriented individual with a demonstrated history of the ability to thrive and adapt to new environments. -->
+- Software Developer and Customer Service-Oriented individual. -->
 
 <!-- ## 🛠 Tools:
 
@@ -57,12 +57,11 @@ Here are some ideas to get you started:
 Hi, I'm Edgar! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
-Software Developer
-------------------
-
+Software Developer 
+----------------------
 Software Developer and Customer Service-Oriented individual.
 
-<!-- *   🌍  I'm based in Michigan
+<!-- *   🌍  I'm based in 
 *   🖥️  See my portfolio at [MyPortfolio](http://https://edgarefigueroa.github.io/)
 *   ✉️  You can contact me at [edgarefigueroa@outlook.com](mailto:edgarefigueroa@outlook.com)
 *   🚀  I'm currently working on [MyApp](http://myapp.com)
@@ -134,13 +133,11 @@ Software Developer and Customer Service-Oriented individual.
 ### Socials
                   
                   
-<p align="left">
-                          
-<!-- <a href="https://www.github.com/edgarefigueroa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> -->
-  
-<a href="https://www.linkedin.com/in/edgarefigueroa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://www.linkedin.com/in/edgarefigueroa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   
 <a href="https://www.twitter.com/edgarfigueroa_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+                          
+<!-- <a href="https://www.github.com/edgarefigueroa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> -->
   
 </p>
 
@@ -149,8 +146,6 @@ Software Developer and Customer Service-Oriented individual.
 <a href="http://www.github.com/edgarefigueroa"><img src="https://github-readme-stats.vercel.app/api?username=edgarefigueroa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="edgarefigueroa's GitHub stats" /></a>
 
 <a href="http://www.github.com/edgarefigueroa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarefigueroa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/edgarefigueroa"><img src="https://activity-graph.herokuapp.com/graph?username=edgarefigueroa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/edgarefigueroa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarefigueroa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
